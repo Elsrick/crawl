@@ -1,5 +1,6 @@
+# csdc
 Guide to Crawl's options
-========================
+===========
 
 This document explains all of the options in the latest version of
 Dungeon Crawl Stone Soup. If you get stuck or some things don't seem to
